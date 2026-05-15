@@ -49,7 +49,7 @@ A cloud computing project focused on deploying and managing a web server using A
 <img src="login1.png" width="300">
 
 ### Website Deployment Enter Information
-<img src="login2" width="300">
+<img src="login2.png" width="300">
 
 ### Website Deployment Registration Successfull
 <img src="login3.png" width="300">
